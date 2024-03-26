@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CENSORED.exe
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CENSORED.deps.json
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CENSORED.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CENSORED.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\CENSORED.pdb
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\CENSORED.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.pdb
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\CENSORED.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\CENSORED.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\bin\Debug\net8.0\SHAKE ITTTT.exe
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\bin\Debug\net8.0\SHAKE ITTTT.deps.json
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\bin\Debug\net8.0\SHAKE ITTTT.runtimeconfig.json
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\bin\Debug\net8.0\SHAKE ITTTT.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\bin\Debug\net8.0\SHAKE ITTTT.pdb
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\refint\SHAKE ITTTT.dll
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.pdb
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\SHAKE ITTTT.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programirane\ConsoleApp1\SHAKE ITTTT\obj\Debug\net8.0\ref\SHAKE ITTTT.dll
